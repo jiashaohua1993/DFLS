@@ -7,5 +7,3 @@ domain fusion in latent space
 
 https://github.com/user-attachments/assets/e57f17a9-f172-4d13-adff-eb9082ecbd98
 
-
-https://www.youtube.com/watch?v=IwEvFbTm3pQ
