@@ -6,16 +6,11 @@ domain fusion in latent space
 
 
 
-https://github.com/jiashaohua1993/DFLS/blob/main/face.mp4
 
 
-https://github.com/user-attachments/assets/e9a440a3-3744-4681-9123-692304434652
+https://github.com/user-attachments/assets/a81c2497-037d-4d36-9f22-af6a3fdd5a5b
 
 
-
-
-
-
-https://github.com/user-attachments/assets/cbd20c53-c762-47a8-a56e-0e5715af0603
+https://github.com/user-attachments/assets/80c97233-f4cb-4edf-803d-577caadbbe2d
 
 
